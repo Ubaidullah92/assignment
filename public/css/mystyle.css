@@ -1,0 +1,10 @@
+.index-title{
+    text-align: center;
+    margin-top: 160px;
+}
+.filter-panel-heading {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 12px;
+    height: 32px
+}
